@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Pointify Summarizer",
+  "description": "An AI-powered text summarization tool that distills complex information into clear, actionable bullet points using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
